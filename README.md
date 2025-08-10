@@ -12,6 +12,8 @@ This repository is dedicated to learning and practicing Artificial Intelligence 
 - Deepen understanding of intelligent systems and data-driven technologies  
 - Share knowledge and track progress in AI development
 
-- ![Image](https://github.com/user-attachments/assets/6ab79892-d8fb-4244-b863-e36ab1b5553f)
+
+ ![Image](https://github.com/user-attachments/assets/6ab79892-d8fb-4244-b863-e36ab1b5553f)
+ 
 
 ### Here we are going to practice and finally learn well
