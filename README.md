@@ -1,4 +1,4 @@
-## 🌟Welcome to My AI Repository!🌟
+🤖 Welcome to My AI Repository! 🤖
 
 ### 👩‍💻 About Me
 I'm Nazanin Ahmadi, Computer engineering student of Isfahan University of Technology 🎓, passionate about expanding my skills in AI.
